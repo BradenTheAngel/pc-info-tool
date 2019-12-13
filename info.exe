@@ -1,0 +1,6 @@
+@ECHO OFF
+color 1
+print IP INFO
+ipconfig
+PRINT SYSTEM INFO
+systeminfo
